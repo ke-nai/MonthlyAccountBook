@@ -1,1 +1,9 @@
-# MonthlyAccountBook
+# 월간 현황 자동화 매크로
+
+![image](https://user-images.githubusercontent.com/66747535/100095677-355e1200-2e9e-11eb-88f0-31ebfc0b35ca.png)
+
+스터디 카페 공간 대구 동성로 점의 월간 현황을 자동화하기 위해 제작되었습니다.
+
+입력된 월에 해당되는 일간 기록 엑셀에서 필요한 값을 가져와
+
+적절한 자리에 정리해서 입력합니다.
